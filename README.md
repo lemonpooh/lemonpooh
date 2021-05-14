@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lemonpooh
 - 👀 I’m interested in IT in SECURITY
-- 🌱 I’m currently learning Bachelor InfoSecurity
+- 🌱 I’m currently studying Bachelor Information in Security
 - 💞️ I’m looking to collaborate on Red or Blue team company
 - 📫 How to reach me : Through my portfolio
 
