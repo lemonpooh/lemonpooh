@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lemonpooh
-- 👀 I’m interested in IT in SECURITY
+- 👀 I’m interested in IT in COMPUTER SECURITY
 - 🌱 I’m currently studying Bachelor Information in Security
 - 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me : Through my portfolio
