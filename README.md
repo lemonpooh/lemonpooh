@@ -18,4 +18,4 @@
 └── https://tryhackme.com/jr/beginnerb2root    # My first challenges creation with my teammate CSH, feel free to play it! Have fun!
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonpooh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonpooh&show_icons=true&theme=onedark)
