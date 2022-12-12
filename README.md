@@ -1,9 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7591E&width=435&lines=Hi%2C+I'm+Lemonpooh%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
-- 👀 I’m interested in IT SECURITY
-- 🌱 I’m currently studying Bachelor Information in Security
-- 💞️ I’m looking to collaborate on IT company
+***
 
-<!---
-lemonpooh/lemonpooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### `> whoami`
+
+```
+├── Final Year Project using Hyperledger Aries framework with ACA-PY CLOUD AGENT PYTHON
+├── Student of Information Security
+├── Working as a SOC + Self-learning for Pentesting
+└── coming soon
+```
+
+### `> linkfinder`
+
+```
+├── lemonpooh.github.io                     # My Profile and Certification
+├── https://twitter.com/lemonp00h           # nothing to see
+└── https://tryhackme.com/jr/beginnerb2root    # My first challenges creation with my teammate CSH, feel free to play it! Have fun!
+```
