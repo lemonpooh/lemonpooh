@@ -6,8 +6,8 @@
 ```
 ├── Final Year Project using Hyperledger Aries framework with ACA-PY CLOUD AGENT PYTHON
 ├── Student of Information Security
-├── Working as a SOC + Self-learning for Pentesting
-└── coming soon
+├── Working as a SOC + Self-learning for Pentester
+└── Progressing
 ```
 
 ### `> linkfinder`
