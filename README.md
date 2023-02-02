@@ -4,8 +4,8 @@
 ### `> whoami`
 
 ```
+├── Student of Information Security 
 ├── Final Year Project using Hyperledger Aries framework with ACA-PY CLOUD AGENT PYTHON
-├── Student of Information Security
 ├── Working as a SOC junior Analyst + Self-learning for Pentester
 └── Progressing
 ```
