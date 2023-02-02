@@ -21,7 +21,7 @@
 ### `> Challenge-creator`
 
 ```
-# My first challenges creation with my teammate CSH, feel free to play it! Have fun!
+# My first challenges together creation with my teammate CSH, feel free to play it! Have fun!
 🕹️https://tryhackme.com/jr/beginnerb2root🚩
 ```
 
