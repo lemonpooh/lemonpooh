@@ -24,6 +24,7 @@
 # My first challenges together creation with my teammate CSH, feel free to play it! Have fun!
 🕹️https://tryhackme.com/jr/beginnerb2root🚩
 ```
+<img src="https://tryhackme-badges.s3.amazonaws.com/lemonpooh.png" alt="TryHackMe">
 
 
 ***
