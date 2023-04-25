@@ -6,7 +6,7 @@
 ```
 ├── Student of Information Security 
 ├── Final Year Project using Hyperledger Aries framework with ACA-PY CLOUD AGENT PYTHON
-├── Working as a SOC junior Analyst + Self-learning for Pentester
+├── Working as a SOC junior Security Analyst + Self-learning for Pentesting
 └── Progressing
 ```
 
