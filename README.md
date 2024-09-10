@@ -55,4 +55,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonpooh&show_icons=true&theme=gruvbox)
 
-![](https://komarev.com/ghpvc/?username=lemonpooh&color=pink) 
+![](https://komarev.com/ghpvc/?username=lemonpooh&color=blueviolet) 
