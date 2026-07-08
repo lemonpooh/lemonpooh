@@ -13,9 +13,7 @@
 ### `> linkfinder`
 
 ```
-├── https://lemonpooh.github.io                         # My Profile and Certification
-├── https://twitter.com/lemonp00h                       # nothing to see
-└── https://www.linkedin.com/in/goh-kah-pooi-a90076221/ # My professional profile
+└── https://lemonpooh.github.io                         # My Profile and Certification 
 ```
 
 ### `> Challenge-creator`
